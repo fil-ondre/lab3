@@ -4,3 +4,6 @@
 .git2.c.swp
 git2.c~
 #git2.c#
+!a.o
+/b
+
